@@ -1,0 +1,21 @@
+{
+  "name": "Home",
+  "theme": "modern",
+  "mainTitle": "Dany the kitten",
+  "mainContent": "She's the cutest little thing!",
+  "mainImages": [
+    {
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczPpKB9-1bQtK_V1UbeizHMH9u-GXUVz13nOOiQ8qcx_wCogdHlmyBXkFZmchgsjKcRZM6PYOI0934EoWOmvI9VWv3Dl2NTIfxTYPuCGY2djTFOfgiDIvJFIEw9cBVIVpUzQiRcAcaH9peRXQBOo_R5yzw=w2490-h1868-s-no-gm",
+      "title": "Dany watching TV"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczNUwge_wr_0HeX8mtAsZUxsaLg9IA4Pjk995aretv61XE82_Y2sIKM3gFwA-YRrS2Ecnzw0_bmlgMLpKphEfd9LjuyGITabaFJZqhuasoouvMHqZEAmcUWBeVyJaxjdqDqGJzT8vbqILQUTp6-GZMPLAw=w1402-h1868-s-no-gm",
+      "title": "Dany staring back"
+    },
+    {
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczOcgTYkNlmAUlQqnvWOKmONcBUct9_Dff-F5X7b9fsI858lVKKdzeqWtkURUplc4gkRh_kozC03BgHJR-zCb3dTDNlZdchCxfDwDrHBfLyJb-ClEojRhmKJ3iGrGjgfnrdNxDUCeGif8Vwo9GSc46iZrw=w1402-h1868-s-no-gm",
+      "title": "Teefies"
+    }
+  ],
+  "pages": []
+}
